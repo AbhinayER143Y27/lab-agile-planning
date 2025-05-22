@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**As a** [Student]  
+ **I need** [To do projects and Data Structures]  
+ **So that** [I can get a job]  
    
  ### Details and Assumptions
  * [document what you know]
